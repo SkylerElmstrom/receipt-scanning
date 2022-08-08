@@ -16,3 +16,8 @@ At it's conception these tools will parse an image of a receipt into text. Later
 -  Analysis script
 -  Build a form
 -  Build DB, data tables
+
+## Ideas
+
+-  https://www.r-bloggers.com/2022/01/using-databases-with-shiny/
+-  
